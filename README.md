@@ -5,3 +5,5 @@ or should be in folder, where you executing the program(if you are running compi
 
 Current project output is json files with common information about file(fileName.json) and additional information
 about pixels in RGB color model(fileNameInfo.json)
+
+this project also contained file for testing called a.bmp
